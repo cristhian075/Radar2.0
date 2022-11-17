@@ -1,0 +1,17 @@
+.leaflet-container {
+  width: 33%;
+  height: 67vh;
+  border-radius: 1000px;
+  margin: auto;
+  position: relative;
+  top: 160px;
+  
+}
+
+body {
+  background-image: url("../public/radar2.PNG");
+  margin: auto;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  
+}
